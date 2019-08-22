@@ -1,1 +1,1 @@
-# wizly
+# wizly-pwa
