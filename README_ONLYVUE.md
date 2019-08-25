@@ -37,4 +37,9 @@ https://medium.com/@eder.ramirez87/modern-pwa-with-vue-cli-3-vuetify-firestore-w
 
 
 **Swipeable Cards**
+
 https://vuejsexamples.com/a-swipeable-cards-interface-with-vue-js/
+
+**Responsive Search**
+
+https://github.com/honey93/VueSearchExample
