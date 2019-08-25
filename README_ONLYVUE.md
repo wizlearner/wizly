@@ -43,3 +43,6 @@ https://vuejsexamples.com/a-swipeable-cards-interface-with-vue-js/
 **Responsive Search**
 
 https://github.com/honey93/VueSearchExample
+
+**News**
+https://cnotv-news.netlify.com
