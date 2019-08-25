@@ -45,4 +45,4 @@ https://vuejsexamples.com/a-swipeable-cards-interface-with-vue-js/
 https://github.com/honey93/VueSearchExample
 
 **News**
-https://cnotv-news.netlify.com
+https://github.com/cnotv/news
