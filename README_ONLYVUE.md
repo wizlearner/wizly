@@ -1,14 +1,23 @@
+**Edu Games**
+https://github.com/cnotv/edugames
 
-YOUTUBE
+https://medium.com/@omarlopez_60630/build-a-quiz-game-app-with-vue-vuex-and-firebase-part-1-e3c95d758468
+
+**Google Analytics & More**
+https://www.npmjs.com/package/vue-analytics
+
+**YOUTUBE**
 
 https://github.com/jordanboston/vue-youtube-search
 https://medium.com/techtrument/build-a-video-player-like-youtube-in-vuejs-webpack-and-flexbox-b51ef9bede0b
 
-MenuBurger
+https://vuejsexamples.com/youtube-player-for-kids-only-play-approved-playlists/
+
+**MenuBurger**
 https://slideout.js.org/
 https://www.npmjs.com/package/vue-burger-menu
 
-ONLY VUE.js CODE SNIPPETS
+**ONLY VUE.js CODE SNIPPETS**
 
 https://phaser.discourse.group/t/vue-phaser-3-and-html-tags-for-ui/1582
 
@@ -20,3 +29,7 @@ A game starter project which using Phaser, Vue, ES6, Webpack.
 https://laracasts.com/discuss/channels/vue/vue-or-vuetify-video-player-for-embed-videos?page=0
 
 https://medium.com/@eder.ramirez87/modern-pwa-with-vue-cli-3-vuetify-firestore-workbox-part-1-974383be5540
+
+
+**Swipeable Cards**
+https://vuejsexamples.com/a-swipeable-cards-interface-with-vue-js/
