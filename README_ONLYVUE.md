@@ -1,9 +1,13 @@
 **Edu Games**
+
 https://github.com/cnotv/edugames
 
 https://medium.com/@omarlopez_60630/build-a-quiz-game-app-with-vue-vuex-and-firebase-part-1-e3c95d758468
 
+https://github.com/shammadahmed/tic-tac-toe-game
+
 **Google Analytics & More**
+
 https://www.npmjs.com/package/vue-analytics
 
 **YOUTUBE**
@@ -14,6 +18,7 @@ https://medium.com/techtrument/build-a-video-player-like-youtube-in-vuejs-webpac
 https://vuejsexamples.com/youtube-player-for-kids-only-play-approved-playlists/
 
 **MenuBurger**
+
 https://slideout.js.org/
 https://www.npmjs.com/package/vue-burger-menu
 
