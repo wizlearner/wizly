@@ -46,3 +46,6 @@ https://github.com/honey93/VueSearchExample
 
 **News**
 https://github.com/cnotv/news
+
+**Airtable Integrations(Read Only)**
+https://developers.taxjar.com/blog/airtable-and-vue-js-for-static-websites/
