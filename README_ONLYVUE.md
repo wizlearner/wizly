@@ -1,3 +1,12 @@
+**Video Recording**
+
+https://github.com/collab-project/videojs-record/wiki/Vue.js
+https://x-team.com/blog/webcam-capture-vue/
+https://github.com/surmon-china/vue-video-player
+
+https://www.npmjs.com/package/vue-youtube
+https://github.com/Ziggeo/vue-ziggeo
+
 **Edu Games**
 
 https://github.com/cnotv/edugames
