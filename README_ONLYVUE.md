@@ -7,6 +7,8 @@ https://github.com/surmon-china/vue-video-player
 https://www.npmjs.com/package/vue-youtube
 https://github.com/Ziggeo/vue-ziggeo
 
+https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
+
 **Edu Games**
 
 https://github.com/cnotv/edugames
