@@ -9,6 +9,7 @@ https://github.com/Ziggeo/vue-ziggeo
 
 https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
 https://www.log2e.com/2019/02/create-a-simple-youtube-search-app-with-vue-js/
+https://github.com/darkylmnx/vue-youtube-iframe-api
 
 
 
